@@ -3,6 +3,9 @@ here we are going a lot of commits
 
 # Practices in the README
 
+
+![Diagram](https://user-images.githubusercontent.com/50681145/123732797-d5cf4700-d870-11eb-9f6a-a81384270bde.png)
+
 ## List
 1. git add .
 2. git commit -m "feat/name" | commit -m "fix/name" | commit -m "style/styles.scss"
