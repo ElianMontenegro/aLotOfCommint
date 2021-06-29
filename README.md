@@ -1,4 +1,4 @@
-# Here we are going make a lot of commits
+**_Here we are going make a lot of commits_**
 
 # Practices in the README
 
