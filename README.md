@@ -1,7 +1,7 @@
 
 here we are going a lot of commits
 
-#Practices in the README
+# Practices in the README
 
 ## List
 1. git add .
@@ -12,7 +12,7 @@ here we are going a lot of commits
 6. git log --oneline
 
 
- ### -In the other desktop
+ ### In the other desktop
 
 1. git init
 2. git remote add origin url
