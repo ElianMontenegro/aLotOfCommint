@@ -3,10 +3,15 @@ here we are going a lot of commits
 
 # Practices in the README
 
+## Git semantic branchs 
 
 ![Diagram](https://user-images.githubusercontent.com/50681145/123732797-d5cf4700-d870-11eb-9f6a-a81384270bde.png)
 
-## List
+## Git semantic commit messages
+
+![commits-semantic-messages](https://user-images.githubusercontent.com/50681145/123733482-fea40c00-d871-11eb-8db6-4c622685822e.PNG)
+
+
 1. git add .
 2. git commit -m "feat/name" | commit -m "fix/name" | commit -m "style/styles.scss"
 3. git checkout -b "development/name-branch"
